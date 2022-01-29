@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+p{
+    color: #6C6C6C;
+
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.middle-bike{
+    filter: grayscale(100%);
+}
+
+.Faq-color{
+  color: blue;
+}
